@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ This\ class\ allows\ the\ user\ to\ find\ the\ gene\ string\ (if\ any)\ that\ is\ located\n\ within\ a\ string\ of\ DNA.\n\ \n\ @author\ Danielle\ \n\ @version\ 11\ July,\ 2020\n
+comment1.params=dna
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3

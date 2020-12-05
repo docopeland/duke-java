@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ This\ class\ allows\ the\ user\ to\ find\ the\ gene\ string\ (if\ any)\ that\ is\ located\n\ within\ a\ string\ of\ DNA.\ Also\ allows\ for\ the\ DNA\ to\ be\ written\ in\ lowercase.\n\ \n\ @author\ Danielle\ \n\ @version\ 11\ July,\ 2020\n
+comment1.params=dna
+comment1.target=java.lang.Boolean\ geneUpperCase(java.lang.String)
+comment2.params=dna\ startCodon\ stopCodon
+comment2.target=java.lang.String\ findSimpleGene(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ testSimpleGene()
+numComments=4

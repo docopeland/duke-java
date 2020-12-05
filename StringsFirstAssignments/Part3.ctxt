@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\n\ Testing1\ checks\ if\ there\ are\ two\ occurrences\ of\ a\ first\ string\ in\ a\ second\n\ string,\ returns\ a\ boolean.\ Testing2\ returns\ the\ string\ that\ occurs\ AFTER\n\ the\ first\ occurrence\ of\ a\ string\ in\ a\ second\ string;\ if\ no\ occurrences,\ \n\ returns\ the\ second\ string.\n\ \n\ @author\ Danielle\ \n\ @version\ 11\ July,\ 2020\n
+comment1.params=stringa\ stringb
+comment1.target=java.lang.Boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
+comment2.params=stringa\ stringb
+comment2.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ testing1()
+comment4.params=
+comment4.target=void\ testing2()
+numComments=5
