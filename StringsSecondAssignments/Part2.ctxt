@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ finds\ out\ how\ many\ time\ stringa\ shows\ up\ in\ string\ b.\ \n\ \n\ @author\ Danielle\n\ @version\ 12\ July,\ 2020\n
+comment1.params=stringa\ stringb
+comment1.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testHowMany()
+numComments=3
